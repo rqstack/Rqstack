@@ -1,83 +1,119 @@
+<h1 align="center"> Eu sou o Renan Queiroz 👋</h1>
+
+<h3 align="center">Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação</h3>
+
 <div align="center">
-
-# Renan
-
-**Engenharia de Software em formação**
-
-Aprendo um conceito, construo algo com ele e volto para entender o que quebrou.
-
+  <img src="./minha-foto.jpeg" width="200" alt="Renan Queiroz"/>
 </div>
 
----
+###
 
-### Sobre mim
+<div align="center">
+  <a href="https://github.com/rqstack">
+    <img src="https://img.shields.io/badge/GitHub-rqstack-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/renandev07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Renan_Queiroz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+  </a>
+</div>
 
-Estou no começo da graduação em Engenharia de Software e uso cada assunto novo, seja uma tag HTML, uma media query ou um branch no Git, como motivo para construir alguma coisa. Me interesso por desenvolvimento web, inteligência artificial aplicada e soluções digitais para problemas reais, principalmente de pequenos negócios. Uso IA como apoio para estudar e prototipar, e a minha parte é revisar, testar e entender o que ela produz. Busco minha primeira oportunidade como desenvolvedor.
+###
 
-### Tecnologias
+<h2 align="center">Sobre mim</h2>
 
-**Estudo e pratico**
+<p align="center">
+  Sou estudante de Engenharia de Software e estou desenvolvendo minhas habilidades em programação Full Stack.
+  <br/><br/>
+  Gosto de aprender na prática, desenvolver projetos e explorar como a programação e a inteligência artificial podem resolver problemas reais.
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+###
 
-**Áreas de interesse**
+<h2 align="center">Tecnologias e ferramentas</h2>
 
-Desenvolvimento web · Inteligência artificial aplicada · Automação · Transformação digital · Banco de dados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" height="55" alt="Tecnologias e ferramentas"/>
+</div>
 
----
+###
 
-### Projetos em destaque
+<h2 align="center">Meus projetos</h2>
 
-#### Programação do Zero `publicado`
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Programação do Zero</h3>
+      <p align="center">
+        Projeto educacional para ajudar iniciantes a aprender programação.
+      </p>
+      <p align="center">
+        <a href="https://rqstack.github.io/programacao-do-zero/">
+          <img src="https://img.shields.io/badge/Acessar_projeto-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acessar Programação do Zero"/>
+        </a>
+        <a href="https://github.com/rqstack/programacao-do-zero">
+          <img src="https://img.shields.io/badge/Código-fonte-blue?style=for-the-badge&logo=github" alt="Código-fonte"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Anotador IA</h3>
+      <p align="center">
+        Projeto de aplicação com inteligência artificial para auxiliar na transcrição e organização de anotações.
+      </p>
+      <p align="center">
+        <a href="https://github.com/rqstack/anotador-ia">
+          <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anotador IA"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Projeto HTML e CSS</h3>
+      <p align="center">
+        Projeto para praticar estruturação de páginas e estilização com HTML e CSS.
+      </p>
+      <p align="center">
+        <a href="https://github.com/rqstack/projeto-html-css">
+          <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeto HTML e CSS"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Estudos de HTML</h3>
+      <p align="center">
+        Repositórios com exercícios e práticas para fortalecer minha base no desenvolvimento web.
+      </p>
+      <p align="center">
+        <a href="https://github.com/rqstack/estudo-html">
+          <img src="https://img.shields.io/badge/Estudo_HTML-181717?style=for-the-badge&logo=github&logoColor=white" alt="Estudo HTML"/>
+        </a>
+        <a href="https://github.com/rqstack/estudo-responsividade">
+          <img src="https://img.shields.io/badge/Responsividade-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Estudo de responsividade"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Plataforma gratuita para aprender programação passo a passo: trilhas de aulas com exercícios e quizzes, jogos, desafios de código testados no próprio navegador e um laboratório para escrever HTML, CSS e JavaScript.
+###
 
-**Objetivo:** oferecer um caminho aberto e progressivo, do primeiro código aos primeiros projetos.\
-**Como foi feito:** com apoio de IA. Eu descrevo o que quero, reviso, testo e decido os rumos; o processo está documentado no repositório.\
-**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · Supabase
+<h2 align="center">Estatísticas do GitHub</h2>
 
-[Repositório](https://github.com/rqstack/programacao-do-zero) · [Acessar o site](https://rqstack.github.io/programacao-do-zero/)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rqstack&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqstack&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
+</div>
 
-#### Anotador IA `em desenvolvimento`
+###
 
-Transcreve o áudio de uma aula online em português e organiza anotações. Tudo roda no próprio computador: o áudio não sai da máquina.
+<h2 align="center">Vamos nos conectar?</h2>
 
-**Objetivo:** revisar aulas sem precisar anotar tudo à mão, com privacidade e sem custo.\
-**Tecnologias:** HTML · CSS · JavaScript · Python (FastAPI e faster-whisper)
-
-[Repositório](https://github.com/rqstack/anotador-ia)
-
-#### Landing Page Pet `publicado`
-
-Página inicial de um site sobre cuidados com animais de estimação, feita para praticar estrutura semântica, estilização e responsividade no celular.
-
-**Tecnologias:** HTML · CSS
-
-[Repositório](https://github.com/rqstack/projeto-html-css) · [Acessar o site](https://rqstack.github.io/projeto-html-css/)
-
-#### Outros estudos
-
-- [estudo-html](https://github.com/rqstack/estudo-html): material de consulta com um tema de HTML por arquivo, comentado com minhas anotações.
-- [estudo-responsividade](https://github.com/rqstack/estudo-responsividade): landing page em duas colunas que vira uma só em telas menores.
-- [desafio](https://github.com/rqstack/desafio): reprodução de layout de uma landing page com HTML e CSS.
-
----
-
-### O que estou estudando agora
-
-- Fundamentos de JavaScript e lógica de programação
-- Layout responsivo com HTML e CSS: media queries hoje, Flexbox e Grid como próximo passo
-- Git no dia a dia: branches, checkout, merge e pull requests
-- Organização de repositórios e documentação de projetos
-
----
-
-### Contato
-
-[LinkedIn](https://www.linkedin.com/in/renandev07/) · [E-mail](mailto:Renan.sq.dev@gmail.com) · [GitHub](https://github.com/rqstack)
-
-<sub>Este perfil muda conforme eu aprendo. Os commits mais recentes mostram onde estou agora.</sub>
+<div align="center">
+  <a href="https://github.com/rqstack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/renandev07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
