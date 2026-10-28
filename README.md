@@ -162,7 +162,7 @@ Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolve
     <td width="50%" valign="top">
       <b>Em aprendizado</b>
       <br><br>
-      TypeScript · React · Python · SQL e modelagem de dados
+      TypeScript · React · Java · SQL e modelagem de dados
       <br>
       <sub>Explorados em projetos pessoais, ainda em fase de estudo.</sub>
     </td>
