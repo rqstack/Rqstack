@@ -3,136 +3,188 @@
 <h3 align="center">Desenvolvedor Full Stack em formação | Engenharia de Software</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renandev07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/rqstack">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:renan.sq.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
+  <a href="https://www.linkedin.com/in/renandev07/"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/rqstack"><img src="assets/buttons/github.svg" height="40" alt="GitHub"></a>&nbsp;
+  <a href="mailto:renan.sq.dev@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="E-mail"></a>
 </p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=rqstack&theme=github-dark&style=aura&v=showcase-hero-1" width="100%" alt="Renan Queiroz — perfil de desenvolvedor">
 </p>
 
----
+<br>
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software na UNICID e estou construindo minha trajetória na área de tecnologia, com foco em desenvolvimento Full Stack, resolução de problemas e criação de soluções práticas.
+Sou estudante de **Engenharia de Software** e minha jornada na tecnologia começou pela curiosidade de entender como as coisas funcionam e como podem ser melhoradas.
 
-Minha jornada começou pela curiosidade de entender como as coisas funcionam e como podem ser melhoradas. Desde então, venho desenvolvendo conhecimentos em lógica de programação, desenvolvimento web, bancos de dados e Inteligência Artificial, aplicando o que aprendo em projetos próprios.
+Nesse caminho, venho desenvolvendo conhecimentos em desenvolvimento web, lógica de programação, HTML, CSS, banco de dados e análise de problemas, além de me aprofundar em Inteligência Artificial (IA) e transformação digital.
 
-Acredito que aprender programação vai além de escrever código: envolve compreender problemas, explorar possibilidades e transformar ideias em soluções úteis. Foi com essa visão que criei o **Programação do Zero**, uma plataforma de aprendizagem inspirada nas dificuldades que enfrentei ao estudar programação e na vontade de tornar esse processo mais prático e interativo.
+Ao aprender e colocar esses conhecimentos em prática, também desenvolvi habilidades como organização, comunicação, pensamento lógico, criatividade e colaboração. Gosto de entender um problema, buscar diferentes possibilidades e transformar ideias em soluções práticas e eficientes.
 
-Busco uma oportunidade na área de Tecnologia da Informação ou Desenvolvimento de Software para aplicar meus conhecimentos, adquirir experiência profissional e contribuir com projetos e equipes, enquanto continuo evoluindo como desenvolvedor.
+Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolver problemas e ajudar pessoas.
+
+**Busco uma oportunidade** em Tecnologia da Informação (TI), Desenvolvimento de Software ou áreas relacionadas, na qual possa aplicar meus conhecimentos, adquirir experiência profissional e contribuir com a equipe. Tenho interesse em projetos que envolvam desenvolvimento, Inteligência Artificial e transformação digital, enquanto continuo aprimorando minhas habilidades.
+
+<br>
 
 ## Formação e aprendizado
 
-- 🎓 **Engenharia de Software** — UNICID
-- 💻 **Formação Full Stack** — DevClub
-- 🌐 Desenvolvimento web com HTML e CSS
-- 🧠 Lógica de programação e resolução de problemas
-- 🗄️ Estudos de modelagem de dados e bancos de dados
-- 🤖 Interesse em Inteligência Artificial e transformação digital
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Formação</b>
+      <br><br>
+      <b>Engenharia de Software</b><br>
+      <sub>UNICID</sub>
+      <br><br>
+      <b>Formação Full Stack</b><br>
+      <sub>DevClub</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Em aprendizado</b>
+      <br><br>
+      Desenvolvimento web com HTML e CSS<br>
+      Lógica de programação e resolução de problemas<br>
+      Estudos de modelagem de dados e bancos de dados<br>
+      Interesse em Inteligência Artificial e transformação digital
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## Projetos em destaque
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=rqstack&theme=github-dark&style=aura&v=showcase-projects-2" width="100%" alt="Projetos do Renan">
-</p>
+## Projeto principal
 
 ### Programação do Zero
 
-Uma plataforma de aprendizagem de programação criada a partir de uma experiência pessoal: a dificuldade de aprender a programar e encontrar maneiras mais práticas de estudar.
+**Do primeiro código aos seus próprios projetos.** Uma plataforma gratuita para aprender programação praticando.
 
-O projeto reúne trilhas de aprendizagem, exercícios, quizzes e jogos interativos com o objetivo de tornar o estudo mais dinâmico e ajudar iniciantes a aprender praticando.
-
-<p align="center">
-  <a href="https://rqstack.github.io/programacao-do-zero/">
-    <img src="https://img.shields.io/badge/ACESSAR-PROGRAMA%C3%87%C3%83O%20DO%20ZERO-00F7FF?style=for-the-badge&labelColor=101010" alt="Acessar Programação do Zero">
-  </a>
+<p>
+  <a href="https://rqstack.github.io/programacao-do-zero/"><img src="assets/buttons/acessar-plataforma.svg" height="40" alt="Acessar a plataforma"></a>&nbsp;
+  <a href="https://github.com/rqstack/programacao-do-zero"><img src="assets/buttons/ver-codigo.svg" height="40" alt="Ver código"></a>
 </p>
 
-- **Aplicação:** [Acessar o projeto](https://rqstack.github.io/programacao-do-zero/)
-- **Código-fonte:** [Ver repositório](https://github.com/rqstack/programacao-do-zero)
+<a href="https://rqstack.github.io/programacao-do-zero/">
+  <img src="assets/programacao-do-zero/home.png" width="100%" alt="Página inicial da Programação do Zero">
+</a>
 
-### Anotador IA
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>O problema</b>
+      <br><br>
+      Durante meus estudos, senti falta de uma maneira mais prática e interativa de aprender programação.
+    </td>
+    <td width="33%" valign="top">
+      <b>A proposta</b>
+      <br><br>
+      Uma plataforma em que o aprendizado acontece na prática: trilhas organizadas, atividades interativas e desafios de programação.
+    </td>
+    <td width="34%" valign="top">
+      <b>O que você encontra</b>
+      <br><br>
+      20 trilhas com 155 aulas<br>
+      175 quizzes e 9 jogos de revisão<br>
+      Desafios de código testados na hora<br>
+      Laboratório e projetos guiados
+    </td>
+  </tr>
+</table>
 
-Projeto voltado à transcrição de aulas e à organização de anotações, com foco em facilitar o acompanhamento dos estudos.
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://rqstack.github.io/programacao-do-zero/trilhas/"><img src="assets/programacao-do-zero/trilhas.png" width="100%" alt="Página de trilhas de aprendizagem"></a>
+      <br><sub>Trilhas de aprendizagem</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://rqstack.github.io/programacao-do-zero/jogos/"><img src="assets/programacao-do-zero/jogos.png" width="100%" alt="Página de jogos interativos"></a>
+      <br><sub>Jogos interativos</sub>
+    </td>
+    <td width="34%" align="center">
+      <a href="https://rqstack.github.io/programacao-do-zero/desafios/"><img src="assets/programacao-do-zero/desafios.png" width="100%" alt="Página de desafios de código"></a>
+      <br><sub>Desafios de código</sub>
+    </td>
+  </tr>
+</table>
 
-### Desenvolvimento web
+**Como foi construído:** Next.js, React, TypeScript, Tailwind CSS e Supabase, com hospedagem gratuita no GitHub Pages. O projeto é desenvolvido com apoio de IA (*vibe coding*): eu defino o que construir, reviso, testo e decido os rumos — processo descrito de forma transparente no [repositório](https://github.com/rqstack/programacao-do-zero).
 
-Projetos práticos para exercitar conceitos de HTML, CSS, estruturação de páginas e responsividade, fortalecendo minha base em desenvolvimento de software.
+<br>
 
----
+## Outros projetos
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rqstack/anotador-ia">Anotador IA</a></b>
+      <br><br>
+      Transcreve aulas online em tempo real e monta anotações usando IA local: o áudio não sai do computador.
+      <br><br>
+      <sub>Python · FastAPI · faster-whisper · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://rqstack.github.io/projeto-html-css/">Landing Page Pet</a></b>
+      <br><br>
+      Projeto de estudo com estrutura semântica, Google Fonts e layout responsivo com media queries.
+      <br><br>
+      <sub>HTML · CSS · <a href="https://github.com/rqstack/projeto-html-css">código</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>Repositórios de estudo</b>
+      <br><br>
+      Exercícios de fundamentos:
+      <a href="https://github.com/rqstack/estudo-html">estudo-html</a> ·
+      <a href="https://github.com/rqstack/estudo-js">estudo-js</a> ·
+      <a href="https://github.com/rqstack/estudo-responsividade">estudo-responsividade</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=rqstack&theme=github-dark&style=aura&v=showcase-projects-2" width="100%" alt="Repositórios de Renan Queiroz">
+</p>
+
+<br>
 
 ## Tecnologias e ferramentas
 
-<p align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="Visual Studio Code">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Uso nos meus projetos e estudos</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" height="40" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code">
+    </td>
+    <td width="50%" valign="top">
+      <b>Em aprendizado</b>
+      <br><br>
+      TypeScript · React · Python · SQL e modelagem de dados
+      <br>
+      <sub>Explorados em projetos pessoais, ainda em fase de estudo.</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=rqstack&theme=github-dark&style=aura" width="100%" alt="Tecnologias e ferramentas do Renan">
+  <img src="https://www.gitskins.com/api/section/stack?username=rqstack&theme=github-dark&style=aura" width="100%" alt="Linguagens mais usadas nos repositórios de Renan Queiroz">
 </p>
 
----
+<br>
 
-## Histórico de contribuições
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-
-## Estatísticas do GitHub
+## Contribuições
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=rqstack&theme=github-dark&style=aura&v=showcase-stats-4" width="100%" alt="Estatísticas do GitHub de Renan">
+  <img src="https://raw.githubusercontent.com/rqstack/rqstack/snake-output/snake.svg" width="100%" alt="Animação do gráfico de contribuições no GitHub">
 </p>
 
----
+<br>
 
-## Vamos nos conectar?
+## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/renandev07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Renan%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:renan.sq.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/rqstack">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+Aberto a conversar sobre oportunidades em tecnologia e desenvolvimento de software.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=rqstack&theme=github-dark&style=aura&v=showcase-social-5" width="100%" alt="Redes sociais do Renan">
-</p>
-
-<p align="center">
-  <sub>Aprendendo continuamente, desenvolvendo projetos e transformando ideias em soluções.</sub>
-</p>
+**E-mail:** [renan.sq.dev@gmail.com](mailto:renan.sq.dev@gmail.com) &nbsp;·&nbsp; **LinkedIn:** [linkedin.com/in/renandev07](https://www.linkedin.com/in/renandev07/)
