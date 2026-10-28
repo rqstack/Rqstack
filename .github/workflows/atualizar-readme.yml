@@ -1,0 +1,22 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+
+      - name: Verificar README
+        run: |
+          test -f README.md
+          echo "README encontrado. Workflow executado com sucesso."
