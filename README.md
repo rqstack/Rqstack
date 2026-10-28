@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./minha-foto.jpeg" width="160" alt="Foto de Renan Queiroz"/>
 
 # Renan Queiroz
 
