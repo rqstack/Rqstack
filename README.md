@@ -104,9 +104,8 @@ Projetos práticos para exercitar conceitos de HTML, CSS, estruturação de pág
 
 ## Histórico de contribuições
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rqstack&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" width="100%" alt="Animação das contribuições do Renan">
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
 
 ## Estatísticas do GitHub
 
