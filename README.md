@@ -72,13 +72,28 @@ Projetos práticos para exercitar conceitos de HTML, CSS, estruturação de pág
 
 ---
 
+
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="Visual Studio Code">
+  </a>
 </p>
 
 <p align="center">
