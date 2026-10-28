@@ -30,27 +30,7 @@ Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolve
 
 ## Formação e aprendizado
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Formação</b>
-      <br><br>
-      <b>Engenharia de Software</b><br>
-      <sub>UNICID</sub>
-      <br><br>
-      <b>Formação Full Stack</b><br>
-      <sub>DevClub</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Em aprendizado</b>
-      <br><br>
-      Desenvolvimento web com HTML e CSS<br>
-      Lógica de programação e resolução de problemas<br>
-      Estudos de modelagem de dados e bancos de dados<br>
-      Interesse em Inteligência Artificial e transformação digital
-    </td>
-  </tr>
-</table>
+<img src="assets/cards/formacao.svg" width="100%" alt="Formação: Engenharia de Software (UNICID) e Formação Full Stack (DevClub). Em aprendizado: desenvolvimento web com HTML e CSS; lógica de programação e resolução de problemas; estudos de modelagem de dados e bancos de dados; interesse em Inteligência Artificial e transformação digital.">
 
 <br>
 
@@ -69,45 +49,9 @@ Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolve
   <img src="assets/programacao-do-zero/home.png" width="100%" alt="Página inicial da Programação do Zero">
 </a>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>O problema</b>
-      <br><br>
-      Durante meus estudos, senti falta de uma maneira mais prática e interativa de aprender programação.
-    </td>
-    <td width="33%" valign="top">
-      <b>A proposta</b>
-      <br><br>
-      Uma plataforma em que o aprendizado acontece na prática: trilhas organizadas, atividades interativas e desafios de programação.
-    </td>
-    <td width="34%" valign="top">
-      <b>O que você encontra</b>
-      <br><br>
-      20 trilhas com 155 aulas<br>
-      175 quizzes e 9 jogos de revisão<br>
-      Desafios de código testados na hora<br>
-      Laboratório e projetos guiados
-    </td>
-  </tr>
-</table>
+<img src="assets/cards/programacao-do-zero.svg" width="100%" alt="O problema: falta de uma maneira mais prática e interativa de aprender programação. A proposta: uma plataforma com trilhas organizadas, atividades interativas e desafios de programação. 20 trilhas, 155 aulas, 175 quizzes, 9 jogos e desafios em 11 linguagens.">
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://rqstack.github.io/programacao-do-zero/trilhas/"><img src="assets/programacao-do-zero/trilhas.png" width="100%" alt="Página de trilhas de aprendizagem"></a>
-      <br><sub>Trilhas de aprendizagem</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://rqstack.github.io/programacao-do-zero/jogos/"><img src="assets/programacao-do-zero/jogos.png" width="100%" alt="Página de jogos interativos"></a>
-      <br><sub>Jogos interativos</sub>
-    </td>
-    <td width="34%" align="center">
-      <a href="https://rqstack.github.io/programacao-do-zero/desafios/"><img src="assets/programacao-do-zero/desafios.png" width="100%" alt="Página de desafios de código"></a>
-      <br><sub>Desafios de código</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://rqstack.github.io/programacao-do-zero/trilhas/"><img src="assets/programacao-do-zero/galeria.png" width="100%" alt="Telas da plataforma: trilhas de aprendizagem, jogos interativos e desafios de código"></a>
 
 **Como foi construído:** Next.js, React, TypeScript, Tailwind CSS e Supabase, com hospedagem gratuita no GitHub Pages. O projeto é desenvolvido com apoio de IA (*vibe coding*): eu defino o que construir, reviso, testo e decido os rumos — processo descrito de forma transparente no [repositório](https://github.com/rqstack/programacao-do-zero).
 
@@ -115,34 +59,12 @@ Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolve
 
 ## Outros projetos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/rqstack/anotador-ia">Anotador IA</a></b>
-      <br><br>
-      Transcreve aulas online em tempo real e monta anotações usando IA local: o áudio não sai do computador.
-      <br><br>
-      <sub>Python · FastAPI · faster-whisper · JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://rqstack.github.io/projeto-html-css/">Landing Page Pet</a></b>
-      <br><br>
-      Projeto de estudo com estrutura semântica, Google Fonts e layout responsivo com media queries.
-      <br><br>
-      <sub>HTML · CSS · <a href="https://github.com/rqstack/projeto-html-css">código</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>Repositórios de estudo</b>
-      <br><br>
-      Exercícios de fundamentos:
-      <a href="https://github.com/rqstack/estudo-html">estudo-html</a> ·
-      <a href="https://github.com/rqstack/estudo-js">estudo-js</a> ·
-      <a href="https://github.com/rqstack/estudo-responsividade">estudo-responsividade</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/rqstack/anotador-ia"><img src="assets/cards/anotador-ia.svg" width="49%" alt="Anotador IA: transcrição de aulas em tempo real com IA local. Python, FastAPI, faster-whisper e JavaScript."></a>
+  <a href="https://rqstack.github.io/projeto-html-css/"><img src="assets/cards/landing-page-pet.svg" width="49%" alt="Landing Page Pet: projeto de estudo em HTML e CSS com layout responsivo."></a>
+</p>
+
+<a href="https://github.com/rqstack?tab=repositories"><img src="assets/cards/estudos.svg" width="100%" alt="Repositórios de estudo: estudo-html, estudo-js, estudo-responsividade e desafio."></a>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/projects?username=rqstack&theme=github-dark&style=aura&v=showcase-projects-2" width="100%" alt="Repositórios de Renan Queiroz">
@@ -152,22 +74,7 @@ Para mim, a tecnologia não se resume ao código: é uma ferramenta para resolve
 
 ## Tecnologias e ferramentas
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Uso nos meus projetos e estudos</b>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" height="40" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code">
-    </td>
-    <td width="50%" valign="top">
-      <b>Em aprendizado</b>
-      <br><br>
-      TypeScript · React · Java · SQL e modelagem de dados
-      <br>
-      <sub>Explorados em projetos pessoais, ainda em fase de estudo.</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/cards/tecnologias.svg" width="100%" alt="No dia a dia: HTML, CSS, JavaScript, Git, GitHub e VS Code. Em aprendizado: TypeScript, React, Java e SQL.">
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=rqstack&theme=github-dark&style=aura" width="100%" alt="Linguagens mais usadas nos repositórios de Renan Queiroz">
