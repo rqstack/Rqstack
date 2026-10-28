@@ -1,4 +1,4 @@
-```yaml
+
 name: Atualizar README
 
 on:
@@ -28,4 +28,4 @@ jobs:
           git add .ultima-atualizacao
           git diff --cached --quiet || git commit -m "chore: atualização automática"
           git push
-```
+
