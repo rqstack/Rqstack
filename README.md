@@ -32,9 +32,6 @@ Antes da programação, trabalhei em operações de campo e na indústria. Essa 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" height="40" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
 
-**Já utilizadas em projetos**
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,python,fastapi" height="40" alt="TypeScript, React, Next.js, Tailwind CSS, Supabase, Python e FastAPI"/>
 
 **Em estudo:** Java, back-end e banco de dados.
 
