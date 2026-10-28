@@ -5,7 +5,7 @@
 
 **Estudante de Engenharia de Software · Desenvolvedor Full Stack em formação**
 
-São Paulo, Brasil · Em busca da primeira oportunidade em desenvolvimento
+ · Em busca da primeira oportunidade em desenvolvimento
 
 <a href="https://www.linkedin.com/in/renandev07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:renan.sq.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-renan.sq.dev@gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
