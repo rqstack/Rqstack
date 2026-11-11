@@ -14,7 +14,7 @@
 
 <br>
 
-## Sobre mim
+##  Sobre mim
 
 Sou estudante de **Engenharia de Software** e minha jornada na tecnologia começou pela curiosidade de entender como as coisas funcionam e como podem ser melhoradas.
 
